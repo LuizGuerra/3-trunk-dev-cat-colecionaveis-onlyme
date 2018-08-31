@@ -24,6 +24,11 @@ Como o ramo é der curta duração, deve-se escolhar tarefas que possam ser comp
          * Modele as classes, implemente-as, com os respectivos testes unitários/dublês e testes de integração.
 
          * O trabalho deve ser em grupos de 3 ou de 4 componentes.
+         
+         * crie duas pastas no seu projeto:
+         
+            * pasta "src": seu código java, organizado com preferir
+            * pasta "test": ser código de teste unitário, 
 
 
 
