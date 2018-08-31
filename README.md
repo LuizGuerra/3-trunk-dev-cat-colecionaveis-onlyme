@@ -9,15 +9,15 @@ o ramo principal frequentemente (quando o desenvolvimento deste elemento está e
 Como o ramo é der curta duração, deve-se escolhar tarefas que possam ser completados neste espaço de tempo.
 
 * Atividades: 
-    ** definam a equipe, 
+    * definam a equipe, 
     
-    ** definam a estrutura do sistema a ser desenvolvido (enunciado abaixo), 
+    * definam a estrutura do sistema a ser desenvolvido (enunciado abaixo), 
     
-    ** dividam as tarefas,
+    * dividam as tarefas,
     
-    ** definam a estrutura do repositório e 
+    * definam a estrutura do repositório e 
     
-    ** iniciem o desenvolvimento, cada membro da equipe em sua máquina
+    * iniciem o desenvolvimento, cada membro da equipe em sua máquina
     
   
 
