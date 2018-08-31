@@ -19,11 +19,11 @@ Como o ramo é der curta duração, deve-se escolhar tarefas que possam ser comp
     
     * iniciem o desenvolvimento, cada membro da equipe em sua máquina
     
-    * No desenvolviemnto:
+    * no desenvolvimento:
        
          * Modele as classes, implemente-as, com os respectivos testes unitários/dublês e testes de integração.
 
-         * O trabalho deve ser em grupos de 3 ou de 4.
+         * O trabalho deve ser em grupos de 3 ou de 4 componentes.
 
 
 
