@@ -11,4 +11,9 @@ public abstract class Item {
     Date dataDeAquisicao;
     List <String> listaDeAutores;
 
+    public String toString () {
+        return ("Id: " + this.id + ", nome: " + this.nome + ", data de aquisição: " + this.dataDeAquisicao +
+                "Lista de Autores: : " + this.listaDeAutores.toString() );
+    }
+
 }

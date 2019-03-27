@@ -1,0 +1,28 @@
+Listas - organizadas por TIPO
+
+- [x] Permitir cadastrar dados comuns e específicos de cada tipo de item:
+- Identificação única, nome, data de aquisição, lista de autores.
+    - Livros
+        - Editora
+        - Ano de publicação
+    - CDs
+        - Gênero musical
+        - Identificação das faixas de áudio (nome das musicas)
+    - DVDs
+        - Tipo (musical, filme ou dados)
+        - Descrição geral sobre o item ou extras, por ex.
+    - Revistas
+        - Ano de publicação
+        - Volume
+        - Editora
+        - Principais assuntos tratados
+
+- [ ] Sistema deve permitir imprimir uma listagem de cada tipo de colecionável.
+
+- [ ] Deve permitir pesquisa pelos itens específicos de cada tipo
+- Por ex, das revistas é bom pesquisar sobre os assuntos, como a pesquisa por “Programação Orientada a Objetos”
+- Pode mostrar ao user uma lista de todas as revistas que tratam desse assunto
+
+- [ ] Deve permitir a consulta de algum item específico através da identificação do mesmo
+
+- [ ] Sistema deve armazenar as informações no disco para recuperá-las em outro momento.
