@@ -26,4 +26,12 @@ public class Livro extends Item {
         this.anoDePublicacao = anoDePublicacao;
     }
 
+    @java.lang.Override
+    public java.lang.String toString() {
+        return super() +
+                "Livro{" +
+                "editora='" + editora + '\'' +
+                ", anoDePublicacao=" + anoDePublicacao +
+                '}';
+    }
 }

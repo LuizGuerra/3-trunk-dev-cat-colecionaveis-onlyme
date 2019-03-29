@@ -27,4 +27,12 @@ public class DigitalVideoDisc extends Item {
         this.descricao = descricao;
     }
 
+    @java.lang.Override
+    public java.lang.String toString() {
+        return super() +
+                "DigitalVideoDisc{" +
+                "tipo='" + tipo + '\'' +
+                ", descricao='" + descricao + '\'' +
+                '}';
+    }
 }

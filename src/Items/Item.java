@@ -11,9 +11,13 @@ public abstract class Item {
     Date dataDeAquisicao;
     List <String> listaDeAutores;
 
-    public String toString () {
-        return ("Id: " + this.id + ", nome: " + this.nome + ", data de aquisição: " + this.dataDeAquisicao +
-                "Lista de Autores: : " + this.listaDeAutores.toString() );
+    @java.lang.Override
+    public java.lang.String toString() {
+        return "Item{" +
+                "id=" + id +
+                ", nome='" + nome + '\'' +
+                ", dataDeAquisicao=" + dataDeAquisicao +
+                ", listaDeAutores=" + listaDeAutores +
+                '}';
     }
-
 }

@@ -17,11 +17,11 @@ Listas - organizadas por TIPO
         - Editora
         - Principais assuntos tratados
 
-- [ ] Sistema deve permitir imprimir uma listagem de cada tipo de colecionável.
+- [X] Sistema deve permitir imprimir uma listagem de cada tipo de colecionável.
 
 - [ ] Deve permitir pesquisa pelos itens específicos de cada tipo
-- Por ex, das revistas é bom pesquisar sobre os assuntos, como a pesquisa por “Programação Orientada a Objetos”
-- Pode mostrar ao user uma lista de todas as revistas que tratam desse assunto
+    - Por ex, das revistas é bom pesquisar sobre os assuntos, como a pesquisa por “Programação Orientada a Objetos”
+    - Pode mostrar ao user uma lista de todas as revistas que tratam desse assunto
 
 - [ ] Deve permitir a consulta de algum item específico através da identificação do mesmo
 

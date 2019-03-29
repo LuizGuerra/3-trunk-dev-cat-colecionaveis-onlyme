@@ -33,4 +33,14 @@ public class Revista extends Item {
         this.principaisAssuntos = principaisAssuntos;
     }
 
+    @java.lang.Override
+    public java.lang.String toString() {
+        return super() +
+                "Revista{" +
+                "anoDePublicacao=" + anoDePublicacao +
+                ", volume=" + volume +
+                ", editora='" + editora + '\'' +
+                ", principaisAssuntos=" + principaisAssuntos +
+                '}';
+    }
 }

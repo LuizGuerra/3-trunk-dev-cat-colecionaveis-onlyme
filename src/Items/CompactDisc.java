@@ -27,4 +27,13 @@ public class CompactDisc extends Item {
         this.nomeDasMusicas = nomeDasMusicas;
     }
 
+    @java.lang.Override
+    public java.lang.String toString() {
+        return super() +
+                "CompactDisc{" +
+                "generoMusical='" + generoMusical + '\'' +
+                ", nomeDasMusicas=" + nomeDasMusicas +
+                '}';
+    }
+
 }
