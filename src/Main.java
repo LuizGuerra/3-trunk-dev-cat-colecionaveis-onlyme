@@ -23,6 +23,10 @@ public class Main {
                 let += ", " + ls.get(i);
             }
         }
+
+        ls.forEach(x -> {
+            let = let + x;
+        });
         
     }
 }
